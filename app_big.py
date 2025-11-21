@@ -34,4 +34,4 @@ if st.button("Predict"):
             st.write(f"- **{labels[i]}** : {probs[i]:.2f}")
 
         st.write("---")
-        st.caption("⚠️ This is an educational demo and not a medical diagnosis tool.")
+        st.write("Developed by KEYUR BHAVESH TRIVEDI.")
